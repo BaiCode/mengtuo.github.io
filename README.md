@@ -1,34 +1,17 @@
-基于jekyll博客应用主题
-===
+# Jekyll Modern Blog
 
-pithy是一款适用于jekyll的博客应用主题，基于bootstrap前端框架开发。本着简约的视觉效果设计，目的是希望博客的浏览者能够更多的看到博客内容。
+A Simple, Clean and responsive modern blog for jekyll.
 
-使用说明
-===
+## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
-本主题是自由，免费，开源的，你可以克隆为新的仓库作为自己的博客。当然，在克隆仓库时为本主题加颗星，在使用时注明power by pithy，那将是对我最大的支持和鼓励。
+## Attributions
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
-主题效果
-===
-- 首页
-- 
-![首页](http://7xlgu7.com1.z0.glb.clouddn.com/pithy-index.jpg)
+## License
 
-- 列表
-- 
-![列表](http://7xlgu7.com1.z0.glb.clouddn.com/pithy-list.jpg)
+Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
-- 文章
-- 
-![文章](http://7xlgu7.com1.z0.glb.clouddn.com/pithy-post.jpg)
+Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
-反馈
-===
-
-在你浏览或使用本主题时，发现问题或者是有好的建议，希望能够在这里给予反馈。
-
-[New Issue](https://github.com/guovz/pithy/issues/new)
-
-License
-===
-[MIT License](https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md)
+Changes being that I made it jekyll ready and smushed the CSS together.
