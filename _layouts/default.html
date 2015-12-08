@@ -1,21 +1,17 @@
 <!DOCTYPE html>
-<html>
-
-{% include head.html %}
-
+<html lang="zh_cn">
+  {% include head.html %}
 <body>
+<!-- 导航菜单 -->
+  {% include navbar.html%}
 
-<div class="main">
+  <div class="container page-content">
+    {{content}}
+  </div>
 
-    {% include sider.html %}
+  {% include footer.html%}
 
-    <div class="page-content">
-        <div class="page-container">
-                {{ content }}
-        </div>
-    </div>
-</div>
-
+  {% include script.html %}
+  {% include baidu-analysis.html %}
 </body>
-
 </html>
