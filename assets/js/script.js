@@ -12,7 +12,7 @@ if ($(window).width() <= 1280) {
 
 // Variables
     tag1       = $('.pl__all'),
-    tag2       = $('.qq'),
+    tag2       = $('.鸡汤'),
     tag3       = $('.chickenSoup'),
     tag4       = $('.ai'),
     tag5       = $('.fzl'),
